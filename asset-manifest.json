@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_upload/static/css/main.2fdd2562.css",
-    "main.js": "/react_upload/static/js/main.6b37a42b.js",
-    "static/media/cv.pdf": "/react_upload/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/react_upload/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/react_upload/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/react_upload/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/react_upload/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/react_upload/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/react_upload/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/react_upload/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/react_upload/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/react_upload/index.html",
-    "main.2fdd2562.css.map": "/react_upload/static/css/main.2fdd2562.css.map",
-    "main.6b37a42b.js.map": "/react_upload/static/js/main.6b37a42b.js.map"
+    "main.css": "/meanand/static/css/main.08f3522e.css",
+    "main.js": "/meanand/static/js/main.34c5fb28.js",
+    "static/media/me-about.jpg": "/meanand/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/me3.png": "/meanand/static/media/me3.2d79250401a145293045.png",
+    "static/media/cv.pdf": "/meanand/static/media/cv.63b2541524d792008515.pdf",
+    "static/media/portfolio5.png": "/meanand/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/meanand/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/meanand/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/meanand/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/meanand/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/meanand/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/meanand/index.html",
+    "main.08f3522e.css.map": "/meanand/static/css/main.08f3522e.css.map",
+    "main.34c5fb28.js.map": "/meanand/static/js/main.34c5fb28.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fdd2562.css",
-    "static/js/main.6b37a42b.js"
+    "static/css/main.08f3522e.css",
+    "static/js/main.34c5fb28.js"
   ]
 }
